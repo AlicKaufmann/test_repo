@@ -2,4 +2,4 @@ branch 1
 A
 
 branch 2
-B
+B   B
